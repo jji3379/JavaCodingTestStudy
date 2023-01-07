@@ -3,6 +3,10 @@ package Array;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * Array 02-01
+ * 큰 수 출력하기
+ */
 public class MaxInt01 {
     public ArrayList<Integer> solution(int n, int[] arr) {
         ArrayList<Integer> answer = new ArrayList<>();
