@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * 대소문자 변환
  */
-public class UpperLower02 {
+public class Q02UpperLower {
     public static String solution(String str) {
         String answer = "";
         for (char x : str.toCharArray()) {
