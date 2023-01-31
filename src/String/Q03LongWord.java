@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 01-03
  * 문장속 가장 긴 단어 찾기
  */
-public class LongWord03 {
+public class Q03LongWord {
     public static String solution(String str) {
         String answer = "";
         int m = 0;
