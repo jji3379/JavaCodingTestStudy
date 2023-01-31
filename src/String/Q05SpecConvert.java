@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 /**
  * 특정 문자 뒤집기
- * 01-04
+ * 01-05
  */
-public class SpecConvert05 {
+public class Q05SpecConvert {
     public static String solution1(String str) {
         String answer = "";
         char[] s = str.toCharArray();
