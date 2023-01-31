@@ -6,7 +6,7 @@ import java.util.Scanner;
  * String 01-01
  * 문자 찾기
  */
-public class SearchCharacter01 {
+public class Q01SearchCharacter {
 
     public static int solution(String str, char t) {
         int answer = 0;
