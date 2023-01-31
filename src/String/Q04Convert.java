@@ -7,7 +7,7 @@ import java.util.Scanner;
  * 단어 뒤집기
  * 01-04
  */
-public class Convert04 {
+public class Q04Convert {
     public static ArrayList<String> solution1(int n, String[] str) {
         ArrayList<String> answer = new ArrayList<>();
 
