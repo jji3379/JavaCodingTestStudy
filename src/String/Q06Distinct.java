@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 중복문자제거
  * 01-06
  */
-public class Distinct06 {
+public class Q06Distinct {
     public static String solution(String str) {
         String answer = "";
 
