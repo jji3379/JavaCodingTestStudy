@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Array 02-01
  * 큰 수 출력하기
  */
-public class MaxInt01 {
+public class Q01MaxInt {
     public ArrayList<Integer> solution(int n, int[] arr) {
         ArrayList<Integer> answer = new ArrayList<>();
         answer.add(arr[0]);
@@ -25,7 +25,7 @@ public class MaxInt01 {
     }
 
     public static void main(String[] args) {
-        MaxInt01 T = new MaxInt01();
+        Q01MaxInt T = new Q01MaxInt();
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
