@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 공통원소 구하기
  * 03-02
  */
-public class CommonElements {
+public class Q02CommonElements {
     public static ArrayList<Integer> solution(int n, int[] a, int m, int[] b) {
         ArrayList<Integer> answer = new ArrayList<>();
 
