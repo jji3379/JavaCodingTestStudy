@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 최대 매출
  * 03-03
  */
-public class MaxTurnover {
+public class Q03MaxTurnover {
     public static int solution(int k, int[] arr) {
         int answer = 0;
         int sum = 0;
