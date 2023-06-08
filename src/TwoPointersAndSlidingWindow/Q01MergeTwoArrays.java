@@ -1,15 +1,13 @@
 package TwoPointersAndSlidingWindow;
 
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
 import java.util.Scanner;
 
 /**
  * 두 배열 합치기
  * 03-01
  */
-public class MergeTwoArrays {
+public class Q01MergeTwoArrays {
 
     public static ArrayList<Integer> solution(int n, int[] a, int m, int[] b) {
         ArrayList<Integer> answer = new ArrayList<>();
