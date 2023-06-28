@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * DFS 07-05
+ * BFS 07-07
  * 이진트리 순회 (BFS 넓이우선탐색 : 레벨탐색)
  */
 public class Q03BFSBinaryTreeCircuit {
